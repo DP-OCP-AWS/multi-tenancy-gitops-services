@@ -1,10 +1,8 @@
 ibm-cpd-ds-instance:
   metadata:
     name: dpservice-cr
-
   spec:
     license:
       accept: "true"
       license: L-RJON-CCCP46
     version: "10.0-cd"
-    storageClass: managed-nfs-storage
